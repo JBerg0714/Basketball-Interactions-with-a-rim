@@ -1,0 +1,2 @@
+# Basketball-Interactions-with-a-rim
+With each basketball player comes a unique shooting technique. Understanding how a basketball interacts with a rim and backboard can be beneficial to shooters who would like to enhance their foul shot percentages and rebounding. We studied how the coefficient of restitution affects the direction of the bounce of a 29.5-inch regulation basketball after a collision with a stationary rim and backboard. This research was conducted in the fall of 2016. 
